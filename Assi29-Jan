@@ -1,0 +1,25 @@
+Q1 Who developed python programming language?
+Ans : Guido van Rossum developed python Programming Language.
+
+Q2 Which type of programming does Python Support?
+Ans : Python is an interpreted programming language, supporting object-oriented, structured, and functional programming.
+
+Q3 Is Python case sensitive when dealing with identifiers ?
+Ans : Yes, Python is case-sensetive Language.
+
+Q4 What is correct extension of the Python file?
+Ans : Python Programming Correcet extenstion is .py 
+
+Q5 Is python code complied or interpreted ?
+Ans : Python is both compiled as well as an interpreted language, which means when we run a python code, it is first compiled and then interpreted line by line.
+
+Q6 Name a few blocks of code use to define in Python Langugage?
+Ans : a module, a function body, and a class definition. Each command typed interactively is a block. A script file (a file given as standard input to the interpreter or specified as a command line argument to the interpreter) is a code block.
+
+Q7 State a character used to give single-line comments in Python ?
+Ans : a single hash # we use to give a single Line Comment in python.
+
+Q8 mention function which can help us to find the version of python that we are currently working on ?
+Ans : The function sys. version can help us to find the version of python that we are currently working on. It also contains information on the build number and compiler used. For example, 3.5.
+
+Q9 
